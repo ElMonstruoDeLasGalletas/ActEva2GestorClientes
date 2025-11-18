@@ -99,7 +99,7 @@ implementation("androidx.constraintlayout:constraintlayout:2.1.4")
 
 | Pantalla Principal | Formulario Cliente |
 |--------------------|--------------------|
-| ![main](docs/main.png) | ![form](docs/form.png) |
+| ![main](docs/Main.png) | ![form](docs/Form.png) |
 
 ## Objetivos de aprendizaje alcanzados
 
